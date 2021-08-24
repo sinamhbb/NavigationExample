@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_title_fragment">Hello title fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_rules_fragment">Hello rules fragment</string>
+
+    <string name="rules_menu_item">Rules</string>
+</resources>
